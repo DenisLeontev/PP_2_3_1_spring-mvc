@@ -9,6 +9,7 @@
         <module name="PP_2_2_2_spring-mvc_new" />
         <module name="PP_2_2_2_new_spring-mvc" />
         <module name="spring-mvc" />
+        <module name="PP_2_3_1_spring-mvc" />
       </profile>
     </annotationProcessing>
   </component>
